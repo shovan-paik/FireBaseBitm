@@ -126,4 +126,8 @@ public class MainActivity extends AppCompatActivity {
         userList = new ArrayList<>();
         databaseReference = FirebaseDatabase.getInstance().getReference();
     }
+
+
+
+    //check to commit option
 }
